@@ -3,7 +3,7 @@
 #assuming availability of
 #bowtie2
 #SAMtools
-#python 3 (for python requirements see python_requirements.txt)
+#python 3 (for python requirements see requirements.txt)
 
 #set the working directory to the directory in which this script resides
 SOURCE="${BASH_SOURCE[0]}"
